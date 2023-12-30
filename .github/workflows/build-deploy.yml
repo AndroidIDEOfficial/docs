@@ -1,4 +1,4 @@
-name: Build and test
+name: Build and deploy
 
 on:
   push:
@@ -28,7 +28,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install requirements
-        run: python install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Build site
         run: make html
