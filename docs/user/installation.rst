@@ -74,6 +74,7 @@ Install JDK, SDK, and commandline tools for SDK.
 
 
 * One command to setup the terminal and install build tools:
+
   .. code-block:: bash
 
      cd && pkg upg && idesetup -c
