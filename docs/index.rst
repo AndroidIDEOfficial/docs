@@ -3,6 +3,18 @@
 AndroidIDE Documentation
 ========================
 
+.. toctree:: 
+   :maxdepth: 1
+   :glob:
+   :hidden:
+   :caption: 🚀 Tutorials
+
+   tutorials/get-started
+   tutorials/manual-installation
+   tutorials/build-first-project
+   tutorials/signing-apks
+   tutorials/using-room-db
+
 .. toctree::
    :maxdepth: 2
    :glob:
