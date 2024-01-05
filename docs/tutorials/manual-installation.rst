@@ -129,7 +129,7 @@ Conclusion
 ----------
 
 In situations where network issues or other factors prevent the automatic installation of build tools in AndroidIDE,
-manual installation becomes necessary. By following the steps outlined in this blog post, you can successfully install
+manual installation becomes necessary. By following the steps outlined in this tutorial, you can successfully install
 the build tools, platform tools, and command line tools, ensuring a seamless development experience in AndroidIDE.
 Remember to choose the appropriate files based on your device's CPU architecture and stay updated with the latest tool
 versions for optimal performance and compatibility. Happy coding!
