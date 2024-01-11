@@ -1,3 +1,3 @@
 # The AndroidIDE Documentation
 
-[Read the docs](https://docs.androidide.com).
+Read the docs at https://docs.androidide.com.

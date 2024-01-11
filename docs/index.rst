@@ -33,6 +33,21 @@ AndroidIDE Documentation
    :caption: ⚙️ Developer guide
 
    developer/index
+   developer/contribution-guidelines
+   developer/getting-started
+   developer/fdroid-builds
+   developer/actions-api
+   developer/gradle-plugin
+   developer/language-servers
+   developer/layout-inflater-and-UI-designer
+   developer/logsender
+   developer/lookup-api
+   developer/projects-api
+   developer/templates-api
+   developer/testing
+   developer/the-java-compiler
+   developer/tooling-api
+   developer/versioning
 
 Welcome to the official documentation for AndroidIDE, an open-source Integrated Development Environment (IDE) designed for developing real Android applications directly on Android devices. This documentation serves as a comprehensive guide for both users and developers, providing essential information to make the most out of AndroidIDE.
 

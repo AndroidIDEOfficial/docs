@@ -1,0 +1,4 @@
+.. _dev-logsender:
+
+LogSender
+=========
