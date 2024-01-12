@@ -38,20 +38,24 @@ Version name format
 
 The release version names specified in the following format :
 
-.. code-block::
+.. code-block:: text
 
    v[MAJOR].[MINOR].[PATCH]-[PRE-RELEASE]
 
-For example : ``v2.5.3-beta``.
+For example \: ``v2.5.3-beta``
 
 The CI builds contain additional information in their version names. This makes it easier for us to know the exact version for debug builds
 and fix issues faster :
 
-.. code-block::
+.. code-block:: text
 
    v[MAJOR].[MINOR].[PATCH]-[PRE-RELEASE].[RELEASE-TYPE].[REVISION]+branch.[BRANCH-NAME].commit.[SHORT-COMMIT-HASH].timestamp.[TIMESTAMP]
 
-For example : ``v2.5.3-beta.internal.1+branch.dev.commit.41779f3.timespamp.[...]``
+For example :
+
+.. code-block:: text
+
+   v2.5.3-beta.internal.1+branch.dev.commit.41779f3.timespamp.[...]
 
 .. _dev-versioning-configuration:
 

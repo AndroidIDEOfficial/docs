@@ -43,14 +43,15 @@ Before proceeding, ensure that your Android device meets these minimum requireme
 
 
 * `Download from Github Releases <https://github.com/AndroidIDEOfficial/AndroidIDE/releases>`_
-* `Debug Version (for testers) <https://github.com/AndroidIDEOfficial/AndroidIDE/actions>`_
+* `Debug Version (for testers) <https://github.com/AndroidIDEOfficial/AndroidIDE/actions?query=branch%3Adev+event%3Apush>`_
 
-  * To download the debug version, choose ``Build and test`` workflow, then download the artifact.
   * Make sure to be logged in to GitHub in your browser when downloading artifacts.
+* `F-Droid <https://f-droid.org/packages/com.itsaky.androidide/>`_
 
-..
-
-   Note: Debug version is for testing purposes.
+.. warning::
+  F-Droid and GitHub builds are incompatible with each other! You can't use them interchangeably.
+.. note::
+  Debug version is for testing purposes. It can be **unstable**.
 
 .. _user-installation-process:
 

@@ -54,7 +54,7 @@ The first step is to install the latest AndroidIDE APK. You could download the A
 
 * `The AndroidIDE Website <https://androidide.com>`_
 * `GitHub Releases <https://github.com/AndroidIDEOfficial/AndroidIDE/releases>`_
-* `GitHub Actions <https://github.com/AndroidIDEOfficial/AndroidIDE/actions>`_ - only if you're willing to try out the
+* `GitHub Actions <https://github.com/AndroidIDEOfficial/AndroidIDE/actions?query=branch%3Adev+event%3Apush>`_ - only if you're willing to try out the
   latest, probably **unstable** test builds.
 * `F-Droid <https://f-droid.org/packages/com.itsaky.androidide/>`_
 
