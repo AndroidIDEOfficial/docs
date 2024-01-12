@@ -51,7 +51,7 @@ Options Menu
 ------------
 
 In the top-right corner of the AndroidIDE interface, you'll find the
-options menu, represented by three dots (`⋮`). This menu provides
+options menu, represented by three dots (``⋮``). This menu provides
 essential functionalities to enhance your development experience.
 
 **Options Menu Functionalities:**
@@ -90,7 +90,7 @@ essential functionalities to enhance your development experience.
 
 **Utilizing the Options Menu:**
 
-- Access the menu by clicking the three dots (`⋮`) in the
+- Access the menu by clicking the three dots (``⋮``) in the
   top-right corner.
 - Efficiently execute common tasks without navigating through
   multiple menus.

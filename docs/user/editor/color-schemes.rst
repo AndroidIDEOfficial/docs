@@ -3,13 +3,13 @@
 Editor Color Schemes
 ====================
 
-AndroidIDE `\ ``v2.1.4-beta`` <https://github.com/AndroidIDEOfficial/AndroidIDE/releases/tag/v2.1.4-beta>`_ added limited
+AndroidIDE `v2.1.4-beta <https://github.com/AndroidIDEOfficial/AndroidIDE/releases/tag/v2.1.4-beta>`_ added limited
 support for custom color schemes in the editor. You can create your own color schemes and use it for AndroidIDE's
 editor. The color schemes are defined using the JSON syntax and are stored in the ``$HOME/.androidide/ui/editor/schemes``
 directory. The default color scheme used is ``AndroidIDE Default``.
 
 Custom color schemes are currently used only for languages that
-use `\ ``tree-sitter`` <https://github.com/tree-sitter/tree-sitter>`_ for syntax highlighting.
+use `tree-sitter <https://github.com/tree-sitter/tree-sitter>`_ for syntax highlighting.
 
 .. _user-editor-color_schemes-file_structure:
 
@@ -240,6 +240,7 @@ specific language types. The syntax for a language object is as follows :
 
 .. code-block:: json
 
+
    {
      "types": [
        "cc",
@@ -351,10 +352,11 @@ more practical example.
    <details>
    <summary>See example</summary>
 
-   The tree-sitter queries for Java that are used in AndroidIDE can be
-   found [here](https://github.com/AndroidIDEOfficial/AndroidIDE/tree/dev/editor/src/main/assets/editor/treesitter/java).
+The tree-sitter queries for Java that are used in AndroidIDE can be
+found `here. <https://github.com/AndroidIDEOfficial/AndroidIDE/tree/dev/editor/src/main/assets/editor/treesitter/java>`_
 
-   ```json
+.. code-block:: json
+
    {
      // The types of file to which this language scheme can be applied
      "types": [
@@ -395,7 +397,3 @@ more practical example.
        "variable": "#f44336",
      }
    }
-   ```
-
-   </details>
-

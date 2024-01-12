@@ -28,7 +28,7 @@ GitHub organisation.
   for AndroidIDE are released in this repository.
 * `platform-tools <https://github.com/AndroidIDEOfficial/platform-tools>`_ -
   Patches and build configuration for building Android build/platform tools (``aapt2``, ``aidl``, ``adb``, etc.) for AndroidIDE.
-* `tree-sitter-* <https://github.com/orgs/AndroidIDEOfficial/repositories?q=tree-sitter&type=all&language=&sort=>`_ - tree sitter grammars for AndroidIDE.
+* `tree-sitter-* <https://github.com/orgs/AndroidIDEOfficial/repositories?q=tree-sitter>`_ - tree sitter grammars for AndroidIDE.
 
 This wiki provides information about building the `AndroidIDE <https://github.com/AndroidIDEOfficial/AndroidIDE>`_ project.
 To build other projects, visit the respective GitHub repositories.

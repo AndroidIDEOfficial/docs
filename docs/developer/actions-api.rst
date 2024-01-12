@@ -21,7 +21,7 @@ actions are defined in the ``ActionItem.Location`` enumeration.
 
 For consistency, the IDs for the action item should have the following format :
 
-.. code-block::
+.. code-block:: text
 
    ide.<subcomponent>[.<sub-subcomponents-or-category>...].<actionId>
 
